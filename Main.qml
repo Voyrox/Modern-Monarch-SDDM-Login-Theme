@@ -24,14 +24,14 @@ Rectangle {
     // Soft glow behind the form
     Rectangle {
         anchors.centerIn: parent
-        width: 770
-        height: 320
+        width: 870
+        height: 220
         radius: 400
         color: "#0eb8ff"
-        opacity: 0.07
+        opacity: 0.05
         rotation: -10
-        anchors.horizontalCenterOffset: 140
-        anchors.verticalCenterOffset: -40
+        anchors.horizontalCenterOffset: 80
+        anchors.verticalCenterOffset: -30
     }
 
     // Login Form on the right side
@@ -41,8 +41,8 @@ Rectangle {
         height: 560
         color: "#03060cff"
         radius: 18
-        border.color: "#cdcbcbff"
-        border.width: 1
+        border.color: "#295a6fff"
+        border.width: 0.5
         anchors.right: parent.right
         anchors.rightMargin: 360
         anchors.verticalCenter: parent.verticalCenter
