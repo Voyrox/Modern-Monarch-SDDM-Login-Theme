@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Monarch
+Description=Modern Monarch SDDM Login Theme
+Author=Voyrox
+License=GPL
+Type=sddm-theme
+Version=1.0
+Website=
+MainScript=Main.qml
+ConfigFile=theme.conf
+Screenshot=preview.png
+Theme-Id=monarch
+Theme-API=2.0
